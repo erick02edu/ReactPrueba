@@ -1,5 +1,6 @@
 import './App.css'
 import { Contenido } from './Components/Contenido'
+import { Footer } from './Components/Footer'
 import { ImgPrincipal } from './Components/ImgPrincipal'
 import { Menu } from './Components/Menu'
 
@@ -11,6 +12,7 @@ function App() {
       <Menu/>
       <ImgPrincipal/>
       <Contenido/>
+      <Footer/>
     </div>
   )
 }
