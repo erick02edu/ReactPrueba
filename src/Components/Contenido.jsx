@@ -12,7 +12,15 @@ export function Contenido(){
       </div>
 
       <div class="col d-flex">
-        <Cards info="card 2"/>
+        <Cards info="card 3"/>
+      </div>
+
+      <div class="col d-flex">
+        <Cards info="card 4"/>
+      </div>
+
+      <div class="col d-flex">
+        <Cards info="card 5"/>
       </div>
     </div>
 
