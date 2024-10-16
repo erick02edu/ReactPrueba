@@ -8,18 +8,9 @@ export function Menu(){
                 <Logo/>
             </div>
 
-            {/* <div className="d-flex gap-2 align-items-center">
-                
-                <i class="fa-solid fa-bars text-white d-md-none d-block"></i>
-                
-                <div className="d-none d-md-flex flex-column flex-md-row gap-3 align-items-center flex-nowrap">
-                    <a href="#" className=" text-decoration-none text-white">About</a>
-                    <a href="#" className=" text-decoration-none text-white">Explore</a>
-                    <a href="#" className=" text-decoration-none text-white">Journal</a>
-                </div>
-
-                <button className="btn text-white" style={{background:"#df643F"}}>Contact</button>
-            </div> */}
+            <button className="btn btn-primary">
+                Login
+            </button>
         </nav>
     </div>
     

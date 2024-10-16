@@ -22,6 +22,7 @@ export function Contenido(){
       <div class="col d-flex">
         <Cards info="card 5"/>
       </div>
+    
     </div>
 
   </div>
