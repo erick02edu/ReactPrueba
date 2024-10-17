@@ -8,9 +8,9 @@ export function Menu(){
                 <Logo/>
             </div>
 
-            <button className="btn btn-primary">
+            <a href="../src/Pages/Login.html" className="btn btn-primary">
                 Login
-            </button>
+            </a>
         </nav>
     </div>
     
